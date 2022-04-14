@@ -1,0 +1,16 @@
+body {
+    background: rgb(212, 212, 212);
+}
+
+.geral {
+    margin-top: 15px;
+}
+
+.menu-lateral {
+    border-radius: 15px;
+}
+
+.menu-lateral h3 {
+    color: rgb(212, 212, 212);
+    padding-top: 15px;
+}
