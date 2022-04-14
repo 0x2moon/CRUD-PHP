@@ -1,15 +1,22 @@
-Teste 01 git e github
- modo aprendiz  seq de comandos{
+<h1>CRUD PHP</h1>
 
-git init =  inicialização de um repositorio git vazio
- (tempo cronologico)
+<h2>O projeto consiste em um sistema modularizado, um CRUD em arquitetura MVC, composto por uma tela de login, cadastro/apresentação de usuário e imóveis</h2>
 
- git add = tipo adiciona a uma area de pre apresentaçao antecede o comit
-
- git status = ver estatus
-
-git commit -m "msg do comite vulgo titulo"
+				
 
 
 
- }
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
